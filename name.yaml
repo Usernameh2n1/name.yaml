@@ -1,6 +1,1 @@
-swagger: '2.0'
-info:
-  title: XSS Attack Example
-  description: |
-    <img src=x onerror=alert(document.cookie)>
-  version: '1.0.0'
+redirect_url: "http://malicious-website.com"
